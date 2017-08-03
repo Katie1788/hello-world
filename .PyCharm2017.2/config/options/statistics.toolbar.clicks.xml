@@ -1,10 +1,13 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
+      <entry action="Profiler@NavBarToolbar" count="1" />
+      <entry action="Rerun@RunnerToolbar" count="2" />
       <entry action="com.intellij.notification.EventLogToolWindowFactory$DisplayBalloons@EventLog" count="1" />
       <entry action="com.intellij.notification.EventLogToolWindowFactory$EditNotificationSettings@EventLog" count="1" />
       <entry action="com.intellij.notification.EventLogToolWindowFactory$ToggleSoftWraps@EventLog" count="1" />
       <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@EventLog" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="1" />
     </counts>
   </component>
 </application>
