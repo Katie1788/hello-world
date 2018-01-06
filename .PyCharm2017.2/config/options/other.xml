@@ -1,4 +1,11 @@
 <application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Python27\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="https://github.com">
       <option name="assignedIssuesOnly" value="false" />
