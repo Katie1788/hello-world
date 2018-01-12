@@ -3,21 +3,24 @@
     <counts>
       <entry action="CheckinProject@NavBarToolbar" count="4" />
       <entry action="ContextHelp@DiffToolbar" count="1" />
+      <entry action="Debug@NavBarToolbar" count="1" />
+      <entry action="FileChooser.GotoHome@FileChooserDialog" count="1" />
       <entry action="Profiler@NavBarToolbar" count="1" />
-      <entry action="Rerun@RunnerToolbar" count="5" />
-      <entry action="Run@NavBarToolbar" count="86" />
-      <entry action="Stop@RunnerToolbar" count="1" />
+      <entry action="Rerun@RunnerToolbar" count="7" />
+      <entry action="Run@NavBarToolbar" count="104" />
+      <entry action="Stop@RunnerToolbar" count="5" />
       <entry action="Vcs.ShowTabbedFileHistory@NavBarToolbar" count="2" />
       <entry action="com.intellij.diff.actions.impl.SetEditorSettingsAction@DiffToolbar" count="1" />
       <entry action="com.intellij.ide.actions.NextOccurenceToolbarAction@RunnerToolbar" count="6" />
       <entry action="com.intellij.ide.actions.PreviousOccurenceToolbarAction@RunnerToolbar" count="1" />
-      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="18" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="37" />
       <entry action="com.intellij.notification.EventLogToolWindowFactory$DisplayBalloons@EventLog" count="1" />
       <entry action="com.intellij.notification.EventLogToolWindowFactory$EditNotificationSettings@EventLog" count="1" />
       <entry action="com.intellij.notification.EventLogToolWindowFactory$ToggleSoftWraps@EventLog" count="1" />
       <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@EventLog" count="1" />
       <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="1" />
       <entry action="com.intellij.webcore.packaging.InstalledPackagesPanel$4@ToolbarDecorator" count="1" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="1" />
     </counts>
   </component>
 </application>
